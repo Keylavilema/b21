@@ -21,3 +21,8 @@ resta<- function(c,d){
   e=c-d
   print(e)
 }
+potencia1<-function(f,g){
+  p=f^g
+  print(p)
+}
+
